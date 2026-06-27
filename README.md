@@ -69,7 +69,3 @@ Você finalizou com 1 ponto(s).
 
 * Cada resposta correta adiciona **1 ponto** à pontuação do jogador.
 * A pontuação é mantida enquanto o jogador continuar na partida.
-
-## 📄 Licença
-
-Este projeto está disponível sob a licença MIT.
